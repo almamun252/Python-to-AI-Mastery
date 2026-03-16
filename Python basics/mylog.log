@@ -1,0 +1,6 @@
+2026-03-14 01:59:55,844 - ERROR - Error: list index out of range
+Traceback (most recent call last):
+  File "F:\Extra curriculum\GCPC\class1.py", line 12, in <module>
+    print(numbers[10])
+          ~~~~~~~^^^^
+IndexError: list index out of range

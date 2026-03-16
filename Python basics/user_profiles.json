@@ -1,0 +1,13 @@
+[
+    {
+        "user_name": "Rahim",
+        "age": 25,
+        "location": "Dhaka"
+    },
+    {
+        "user_name": "Karim",
+        "role": "Admin",
+        "active": true,
+        "department": "IT"
+    }
+]
