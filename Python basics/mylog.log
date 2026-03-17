@@ -1,6 +1,7 @@
-2026-03-14 01:59:55,844 - ERROR - Error: list index out of range
-Traceback (most recent call last):
-  File "F:\Extra curriculum\GCPC\class1.py", line 12, in <module>
-    print(numbers[10])
-          ~~~~~~~^^^^
-IndexError: list index out of range
+2026-03-18 05:05:10,404 - DEBUG - This is a debug message. (For developers only)
+2026-03-18 05:05:10,404 - INFO - This is an info message. (System is running normally)
+2026-03-18 05:05:10,404 - WARNING - This is a warning! (Something might go wrong)
+2026-03-18 05:05:10,404 - ERROR - This is an error! (A function failed)
+2026-03-18 05:05:10,405 - CRITICAL - This is a CRITICAL message! (System crashed!)
+2026-03-18 05:05:10,405 - INFO - Successfully divided 10 by 2. Result: 5.0
+2026-03-18 05:05:10,405 - ERROR - Attempted to divide 5 by zero!
