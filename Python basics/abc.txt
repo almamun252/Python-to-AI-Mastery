@@ -1,1 +1,3 @@
-Hello Bro
+Hello, Brother!
+This is my first file handling code.
+Appending a new line.
