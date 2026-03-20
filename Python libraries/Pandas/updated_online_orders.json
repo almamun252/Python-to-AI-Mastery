@@ -1,0 +1,30 @@
+[
+    {
+        "Date":"2026-03-01T00:00:00.000",
+        "Category":"Electronics",
+        "Quantity":2,
+        "Unit_Price":15000,
+        "Total_Amount":30000
+    },
+    {
+        "Date":"2026-03-02T00:00:00.000",
+        "Category":"Clothing",
+        "Quantity":5,
+        "Unit_Price":1200,
+        "Total_Amount":6000
+    },
+    {
+        "Date":"2026-03-03T00:00:00.000",
+        "Category":"Electronics",
+        "Quantity":1,
+        "Unit_Price":25000,
+        "Total_Amount":25000
+    },
+    {
+        "Date":"2026-03-04T00:00:00.000",
+        "Category":"Grocery",
+        "Quantity":10,
+        "Unit_Price":150,
+        "Total_Amount":1500
+    }
+]
